@@ -14,7 +14,3 @@ func IsNegative(nb int) {
 	z01.PrintRune(10)
 
 }
-
-func main() {
-	IsNegative(5); IsNegative(0); IsNegative(-1)
-}
